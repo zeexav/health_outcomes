@@ -11,3 +11,6 @@ This project seeks to explore the relationship between deaths by Heart Disease, 
 
 * Leading Causes of Death in the United States, 1999-2017 - https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes/index_2.htm
 * Health Insurance Coverage – Coverage rates before and after the Affordable Care Act - https://www.kaggle.com/hhs/health-insurance
+* Citation Note - The Health Insurance Coverage dataset was missing information for Connecticut and Maine for 2013 Medicaid Enrollment and Change to Medicaid enrollment. The following sites were used to fill the missing data. 
+  * Maine reference site - https://ballotpedia.org/Historical_Medicaid_spending_in_Maine
+  * Connecticut reference site - https://www.healthinsurance.org/connecticut-medicaid/
