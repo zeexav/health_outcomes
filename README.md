@@ -14,3 +14,4 @@ This project seeks to explore the relationship between deaths by Heart Disease, 
 * Citation Note - The Health Insurance Coverage dataset was missing information for Connecticut and Maine for 2013 Medicaid Enrollment and Change to Medicaid enrollment. The following sites were used to fill the missing data. 
   * Maine reference site - https://ballotpedia.org/Historical_Medicaid_spending_in_Maine
   * Connecticut reference site - https://www.healthinsurance.org/connecticut-medicaid/
+* Medicaid Expansion Year Data - https://www.advisory.com/daily-briefing/resources/primers/medicaidmap
