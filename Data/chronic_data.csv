@@ -1,0 +1,1684 @@
+Year,Cause_Name,State,Deaths
+2017,Stroke,Alabama,2931
+2017,Stroke,Alaska,190
+2017,Stroke,Arizona,2681
+2017,Stroke,Arkansas,1612
+2017,Stroke,California,16355
+2017,Stroke,Colorado,1988
+2017,Stroke,Connecticut,1403
+2017,Stroke,Delaware,571
+2017,Stroke,District of Columbia,246
+2017,Stroke,Florida,12602
+2017,Stroke,Georgia,4399
+2017,Stroke,Hawaii,764
+2017,Stroke,Idaho,726
+2017,Stroke,Illinois,6020
+2017,Stroke,Indiana,3150
+2017,Stroke,Iowa,1416
+2017,Stroke,Kansas,1355
+2017,Stroke,Kentucky,2050
+2017,Stroke,Louisiana,2460
+2017,Stroke,Maine,736
+2017,Stroke,Maryland,2820
+2017,Stroke,Massachusetts,2367
+2017,Stroke,Michigan,5002
+2017,Stroke,Minnesota,2250
+2017,Stroke,Mississippi,1723
+2017,Stroke,Missouri,3159
+2017,Stroke,Montana,487
+2017,Stroke,Nebraska,760
+2017,Stroke,Nevada,1137
+2017,Stroke,New Hampshire,514
+2017,Stroke,New Jersey,3474
+2017,Stroke,New Mexico,878
+2017,Stroke,New York,6264
+2017,Stroke,North Carolina,5098
+2017,Stroke,North Dakota,337
+2017,Stroke,Ohio,6425
+2017,Stroke,Oklahoma,1947
+2017,Stroke,Oregon,2066
+2017,Stroke,Pennsylvania,6700
+2017,Stroke,Rhode Island,425
+2017,Stroke,South Carolina,2691
+2017,Stroke,South Dakota,414
+2017,Stroke,Tennessee,3519
+2017,Stroke,Texas,10790
+2017,Stroke,Utah,888
+2017,Stroke,Vermont,249
+2017,Stroke,Virginia,3555
+2017,Stroke,Washington,3028
+2017,Stroke,West Virginia,1058
+2017,Stroke,Wisconsin,2513
+2017,Stroke,Wyoming,190
+2017,Diabetes,Alabama,1173
+2017,Diabetes,Alaska,130
+2017,Diabetes,Arizona,2054
+2017,Diabetes,Arkansas,1180
+2017,Diabetes,California,9595
+2017,Diabetes,Colorado,1017
+2017,Diabetes,Connecticut,694
+2017,Diabetes,Delaware,244
+2017,Diabetes,District of Columbia,138
+2017,Diabetes,Florida,6172
+2017,Diabetes,Georgia,2348
+2017,Diabetes,Hawaii,299
+2017,Diabetes,Idaho,394
+2017,Diabetes,Illinois,2927
+2017,Diabetes,Indiana,2096
+2017,Diabetes,Iowa,918
+2017,Diabetes,Kansas,874
+2017,Diabetes,Kentucky,1474
+2017,Diabetes,Louisiana,1272
+2017,Diabetes,Maine,395
+2017,Diabetes,Maryland,1439
+2017,Diabetes,Massachusetts,1321
+2017,Diabetes,Michigan,2798
+2017,Diabetes,Minnesota,1312
+2017,Diabetes,Mississippi,1164
+2017,Diabetes,Missouri,1605
+2017,Diabetes,Montana,292
+2017,Diabetes,Nebraska,575
+2017,Diabetes,Nevada,609
+2017,Diabetes,New Hampshire,340
+2017,Diabetes,New Jersey,1908
+2017,Diabetes,New Mexico,673
+2017,Diabetes,New York,4176
+2017,Diabetes,North Carolina,2903
+2017,Diabetes,North Dakota,194
+2017,Diabetes,Ohio,3740
+2017,Diabetes,Oklahoma,1398
+2017,Diabetes,Oregon,1243
+2017,Diabetes,Pennsylvania,3704
+2017,Diabetes,Rhode Island,275
+2017,Diabetes,South Carolina,1535
+2017,Diabetes,South Dakota,263
+2017,Diabetes,Tennessee,1915
+2017,Diabetes,Texas,5832
+2017,Diabetes,Utah,596
+2017,Diabetes,Vermont,163
+2017,Diabetes,Virginia,1967
+2017,Diabetes,Washington,1812
+2017,Diabetes,West Virginia,864
+2017,Diabetes,Wisconsin,1433
+2017,Diabetes,Wyoming,121
+2017,Heart disease,Alabama,13110
+2017,Heart disease,Alaska,814
+2017,Heart disease,Arizona,12398
+2017,Heart disease,Arkansas,8270
+2017,Heart disease,California,62797
+2017,Heart disease,Colorado,7060
+2017,Heart disease,Connecticut,7138
+2017,Heart disease,Delaware,1990
+2017,Heart disease,District of Columbia,1284
+2017,Heart disease,Florida,46440
+2017,Heart disease,Georgia,18389
+2017,Heart disease,Hawaii,2575
+2017,Heart disease,Idaho,3084
+2017,Heart disease,Illinois,25394
+2017,Heart disease,Indiana,14445
+2017,Heart disease,Iowa,7180
+2017,Heart disease,Kansas,5723
+2017,Heart disease,Kentucky,10343
+2017,Heart disease,Louisiana,11260
+2017,Heart disease,Maine,2844
+2017,Heart disease,Maryland,11653
+2017,Heart disease,Massachusetts,12140
+2017,Heart disease,Michigan,25187
+2017,Heart disease,Minnesota,8230
+2017,Heart disease,Mississippi,7944
+2017,Heart disease,Missouri,14820
+2017,Heart disease,Montana,2164
+2017,Heart disease,Nebraska,3581
+2017,Heart disease,Nevada,6417
+2017,Heart disease,New Hampshire,2721
+2017,Heart disease,New Jersey,18840
+2017,Heart disease,New Mexico,3896
+2017,Heart disease,New York,44092
+2017,Heart disease,North Carolina,18808
+2017,Heart disease,North Dakota,1326
+2017,Heart disease,Ohio,28008
+2017,Heart disease,Oklahoma,10772
+2017,Heart disease,Oregon,6942
+2017,Heart disease,Pennsylvania,32312
+2017,Heart disease,Rhode Island,2339
+2017,Heart disease,South Carolina,10418
+2017,Heart disease,South Dakota,1710
+2017,Heart disease,Tennessee,16019
+2017,Heart disease,Texas,45346
+2017,Heart disease,Utah,3749
+2017,Heart disease,Vermont,1332
+2017,Heart disease,Virginia,14861
+2017,Heart disease,Washington,11582
+2017,Heart disease,West Virginia,4849
+2017,Heart disease,Wisconsin,11860
+2017,Heart disease,Wyoming,1001
+2016,Stroke,Alabama,2967
+2016,Stroke,Alaska,196
+2016,Stroke,Arizona,2556
+2016,Stroke,Arkansas,1643
+2016,Stroke,California,15680
+2016,Stroke,Colorado,1927
+2016,Stroke,Connecticut,1269
+2016,Stroke,Delaware,506
+2016,Stroke,District of Columbia,252
+2016,Stroke,Florida,11854
+2016,Stroke,Georgia,4349
+2016,Stroke,Hawaii,675
+2016,Stroke,Idaho,682
+2016,Stroke,Illinois,5658
+2016,Stroke,Indiana,3040
+2016,Stroke,Iowa,1388
+2016,Stroke,Kansas,1363
+2016,Stroke,Kentucky,2057
+2016,Stroke,Louisiana,2322
+2016,Stroke,Maine,663
+2016,Stroke,Maryland,2709
+2016,Stroke,Massachusetts,2468
+2016,Stroke,Michigan,4874
+2016,Stroke,Minnesota,2197
+2016,Stroke,Mississippi,1705
+2016,Stroke,Missouri,3069
+2016,Stroke,Montana,440
+2016,Stroke,Nebraska,787
+2016,Stroke,Nevada,1096
+2016,Stroke,New Hampshire,490
+2016,Stroke,New Jersey,3401
+2016,Stroke,New Mexico,885
+2016,Stroke,New York,6258
+2016,Stroke,North Carolina,4940
+2016,Stroke,North Dakota,311
+2016,Stroke,Ohio,5987
+2016,Stroke,Oklahoma,1859
+2016,Stroke,Oregon,1943
+2016,Stroke,Pennsylvania,6730
+2016,Stroke,Rhode Island,399
+2016,Stroke,South Carolina,2627
+2016,Stroke,South Dakota,420
+2016,Stroke,Tennessee,3508
+2016,Stroke,Texas,10673
+2016,Stroke,Utah,932
+2016,Stroke,Vermont,247
+2016,Stroke,Virginia,3502
+2016,Stroke,Washington,2910
+2016,Stroke,West Virginia,1039
+2016,Stroke,Wisconsin,2481
+2016,Stroke,Wyoming,208
+2016,Diabetes,Alabama,1183
+2016,Diabetes,Alaska,124
+2016,Diabetes,Arizona,2025
+2016,Diabetes,Arkansas,920
+2016,Diabetes,California,9124
+2016,Diabetes,Colorado,938
+2016,Diabetes,Connecticut,699
+2016,Diabetes,Delaware,203
+2016,Diabetes,District of Columbia,127
+2016,Diabetes,Florida,5782
+2016,Diabetes,Georgia,2238
+2016,Diabetes,Hawaii,285
+2016,Diabetes,Idaho,375
+2016,Diabetes,Illinois,2781
+2016,Diabetes,Indiana,1992
+2016,Diabetes,Iowa,847
+2016,Diabetes,Kansas,727
+2016,Diabetes,Kentucky,1479
+2016,Diabetes,Louisiana,1324
+2016,Diabetes,Maine,463
+2016,Diabetes,Maryland,1358
+2016,Diabetes,Massachusetts,1268
+2016,Diabetes,Michigan,2672
+2016,Diabetes,Minnesota,1265
+2016,Diabetes,Mississippi,1084
+2016,Diabetes,Missouri,1508
+2016,Diabetes,Montana,311
+2016,Diabetes,Nebraska,501
+2016,Diabetes,Nevada,580
+2016,Diabetes,New Hampshire,316
+2016,Diabetes,New Jersey,1949
+2016,Diabetes,New Mexico,678
+2016,Diabetes,New York,4038
+2016,Diabetes,North Carolina,2811
+2016,Diabetes,North Dakota,171
+2016,Diabetes,Ohio,3568
+2016,Diabetes,Oklahoma,1393
+2016,Diabetes,Oregon,1240
+2016,Diabetes,Pennsylvania,3560
+2016,Diabetes,Rhode Island,239
+2016,Diabetes,South Carolina,1369
+2016,Diabetes,South Dakota,253
+2016,Diabetes,Tennessee,1883
+2016,Diabetes,Texas,5470
+2016,Diabetes,Utah,624
+2016,Diabetes,Vermont,166
+2016,Diabetes,Virginia,2062
+2016,Diabetes,Washington,1673
+2016,Diabetes,West Virginia,860
+2016,Diabetes,Wisconsin,1440
+2016,Diabetes,Wyoming,112
+2016,Heart disease,Alabama,12832
+2016,Heart disease,Alaska,831
+2016,Heart disease,Arizona,11957
+2016,Heart disease,Arkansas,8090
+2016,Heart disease,California,61573
+2016,Heart disease,Colorado,7277
+2016,Heart disease,Connecticut,7051
+2016,Heart disease,Delaware,1974
+2016,Heart disease,District of Columbia,1375
+2016,Heart disease,Florida,45659
+2016,Heart disease,Georgia,18143
+2016,Heart disease,Hawaii,2488
+2016,Heart disease,Idaho,2969
+2016,Heart disease,Illinois,25013
+2016,Heart disease,Indiana,13952
+2016,Heart disease,Iowa,6937
+2016,Heart disease,Kansas,5672
+2016,Heart disease,Kentucky,10519
+2016,Heart disease,Louisiana,10943
+2016,Heart disease,Maine,2907
+2016,Heart disease,Maryland,11390
+2016,Heart disease,Massachusetts,11921
+2016,Heart disease,Michigan,25304
+2016,Heart disease,Minnesota,7825
+2016,Heart disease,Mississippi,7865
+2016,Heart disease,Missouri,14579
+2016,Heart disease,Montana,2138
+2016,Heart disease,Nebraska,3322
+2016,Heart disease,Nevada,6457
+2016,Heart disease,New Hampshire,2631
+2016,Heart disease,New Jersey,18597
+2016,Heart disease,New Mexico,3800
+2016,Heart disease,New York,44076
+2016,Heart disease,North Carolina,18266
+2016,Heart disease,North Dakota,1338
+2016,Heart disease,Ohio,27410
+2016,Heart disease,Oklahoma,10209
+2016,Heart disease,Oregon,6968
+2016,Heart disease,Pennsylvania,31990
+2016,Heart disease,Rhode Island,2256
+2016,Heart disease,South Carolina,10195
+2016,Heart disease,South Dakota,1729
+2016,Heart disease,Tennessee,15429
+2016,Heart disease,Texas,43772
+2016,Heart disease,Utah,3636
+2016,Heart disease,Vermont,1366
+2016,Heart disease,Virginia,14124
+2016,Heart disease,Washington,11161
+2016,Heart disease,West Virginia,4767
+2016,Heart disease,Wisconsin,11526
+2016,Heart disease,Wyoming,1051
+2015,Stroke,Alabama,2937
+2015,Stroke,Alaska,182
+2015,Stroke,Arizona,2522
+2015,Stroke,Arkansas,1653
+2015,Stroke,California,15065
+2015,Stroke,Colorado,1856
+2015,Stroke,Connecticut,1388
+2015,Stroke,Delaware,466
+2015,Stroke,District of Columbia,242
+2015,Stroke,Florida,11433
+2015,Stroke,Georgia,4335
+2015,Stroke,Hawaii,735
+2015,Stroke,Idaho,641
+2015,Stroke,Illinois,5709
+2015,Stroke,Indiana,2959
+2015,Stroke,Iowa,1418
+2015,Stroke,Kansas,1364
+2015,Stroke,Kentucky,2050
+2015,Stroke,Louisiana,2280
+2015,Stroke,Maine,616
+2015,Stroke,Maryland,2540
+2015,Stroke,Massachusetts,2475
+2015,Stroke,Michigan,4666
+2015,Stroke,Minnesota,2238
+2015,Stroke,Mississippi,1734
+2015,Stroke,Missouri,3037
+2015,Stroke,Montana,458
+2015,Stroke,Nebraska,776
+2015,Stroke,Nevada,1078
+2015,Stroke,New Hampshire,457
+2015,Stroke,New Jersey,3413
+2015,Stroke,New Mexico,786
+2015,Stroke,New York,6292
+2015,Stroke,North Carolina,5033
+2015,Stroke,North Dakota,308
+2015,Stroke,Ohio,5945
+2015,Stroke,Oklahoma,1881
+2015,Stroke,Oregon,1873
+2015,Stroke,Pennsylvania,6987
+2015,Stroke,Rhode Island,394
+2015,Stroke,South Carolina,2600
+2015,Stroke,South Dakota,383
+2015,Stroke,Tennessee,3447
+2015,Stroke,Texas,10485
+2015,Stroke,Utah,888
+2015,Stroke,Vermont,307
+2015,Stroke,Virginia,3393
+2015,Stroke,Washington,2703
+2015,Stroke,West Virginia,1079
+2015,Stroke,Wisconsin,2618
+2015,Stroke,Wyoming,198
+2015,Diabetes,Alabama,1255
+2015,Diabetes,Alaska,142
+2015,Diabetes,Arizona,2081
+2015,Diabetes,Arkansas,886
+2015,Diabetes,California,8845
+2015,Diabetes,Colorado,887
+2015,Diabetes,Connecticut,653
+2015,Diabetes,Delaware,215
+2015,Diabetes,District of Columbia,162
+2015,Diabetes,Florida,5403
+2015,Diabetes,Georgia,2210
+2015,Diabetes,Hawaii,263
+2015,Diabetes,Idaho,403
+2015,Diabetes,Illinois,2817
+2015,Diabetes,Indiana,2030
+2015,Diabetes,Iowa,1077
+2015,Diabetes,Kansas,684
+2015,Diabetes,Kentucky,1458
+2015,Diabetes,Louisiana,1199
+2015,Diabetes,Maine,407
+2015,Diabetes,Maryland,1243
+2015,Diabetes,Massachusetts,1398
+2015,Diabetes,Michigan,2751
+2015,Diabetes,Minnesota,1221
+2015,Diabetes,Mississippi,1092
+2015,Diabetes,Missouri,1468
+2015,Diabetes,Montana,321
+2015,Diabetes,Nebraska,553
+2015,Diabetes,Nevada,420
+2015,Diabetes,New Hampshire,308
+2015,Diabetes,New Jersey,1933
+2015,Diabetes,New Mexico,608
+2015,Diabetes,New York,4045
+2015,Diabetes,North Carolina,2746
+2015,Diabetes,North Dakota,195
+2015,Diabetes,Ohio,3645
+2015,Diabetes,Oklahoma,1442
+2015,Diabetes,Oregon,1148
+2015,Diabetes,Pennsylvania,3777
+2015,Diabetes,Rhode Island,276
+2015,Diabetes,South Carolina,1347
+2015,Diabetes,South Dakota,282
+2015,Diabetes,Tennessee,1798
+2015,Diabetes,Texas,5521
+2015,Diabetes,Utah,604
+2015,Diabetes,Vermont,159
+2015,Diabetes,Virginia,2044
+2015,Diabetes,Washington,1811
+2015,Diabetes,West Virginia,784
+2015,Diabetes,Wisconsin,1382
+2015,Diabetes,Wyoming,136
+2015,Heart disease,Alabama,12981
+2015,Heart disease,Alaska,846
+2015,Heart disease,Arizona,11458
+2015,Heart disease,Arkansas,7938
+2015,Heart disease,California,61289
+2015,Heart disease,Colorado,7009
+2015,Heart disease,Connecticut,7205
+2015,Heart disease,Delaware,1940
+2015,Heart disease,District of Columbia,1217
+2015,Heart disease,Florida,45441
+2015,Heart disease,Georgia,17769
+2015,Heart disease,Hawaii,2605
+2015,Heart disease,Idaho,2825
+2015,Heart disease,Illinois,25652
+2015,Heart disease,Indiana,13948
+2015,Heart disease,Iowa,6813
+2015,Heart disease,Kansas,5624
+2015,Heart disease,Kentucky,10077
+2015,Heart disease,Louisiana,10665
+2015,Heart disease,Maine,3009
+2015,Heart disease,Maryland,11481
+2015,Heart disease,Massachusetts,12130
+2015,Heart disease,Michigan,24794
+2015,Heart disease,Minnesota,7844
+2015,Heart disease,Mississippi,7969
+2015,Heart disease,Missouri,14808
+2015,Heart disease,Montana,2104
+2015,Heart disease,Nebraska,3591
+2015,Heart disease,Nevada,6114
+2015,Heart disease,New Hampshire,2571
+2015,Heart disease,New Jersey,18647
+2015,Heart disease,New Mexico,3508
+2015,Heart disease,New York,44450
+2015,Heart disease,North Carolina,18474
+2015,Heart disease,North Dakota,1323
+2015,Heart disease,Ohio,28069
+2015,Heart disease,Oklahoma,10310
+2015,Heart disease,Oregon,6859
+2015,Heart disease,Pennsylvania,32042
+2015,Heart disease,Rhode Island,2371
+2015,Heart disease,South Carolina,10092
+2015,Heart disease,South Dakota,1711
+2015,Heart disease,Tennessee,15730
+2015,Heart disease,Texas,43298
+2015,Heart disease,Utah,3598
+2015,Heart disease,Vermont,1311
+2015,Heart disease,Virginia,14077
+2015,Heart disease,Washington,11025
+2015,Heart disease,West Virginia,4727
+2015,Heart disease,Wisconsin,11473
+2015,Heart disease,Wyoming,1030
+2014,Stroke,Alabama,2663
+2014,Stroke,Alaska,157
+2014,Stroke,Arizona,2235
+2014,Stroke,Arkansas,1583
+2014,Stroke,California,13731
+2014,Stroke,Colorado,1714
+2014,Stroke,Connecticut,1266
+2014,Stroke,Delaware,439
+2014,Stroke,District of Columbia,214
+2014,Stroke,Florida,9770
+2014,Stroke,Georgia,3948
+2014,Stroke,Hawaii,655
+2014,Stroke,Idaho,640
+2014,Stroke,Illinois,5489
+2014,Stroke,Indiana,3107
+2014,Stroke,Iowa,1433
+2014,Stroke,Kansas,1363
+2014,Stroke,Kentucky,2050
+2014,Stroke,Louisiana,2230
+2014,Stroke,Maine,628
+2014,Stroke,Maryland,2469
+2014,Stroke,Massachusetts,2460
+2014,Stroke,Michigan,4596
+2014,Stroke,Minnesota,2202
+2014,Stroke,Mississippi,1584
+2014,Stroke,Missouri,3030
+2014,Stroke,Montana,480
+2014,Stroke,Nebraska,798
+2014,Stroke,Nevada,948
+2014,Stroke,New Hampshire,474
+2014,Stroke,New Jersey,3419
+2014,Stroke,New Mexico,822
+2014,Stroke,New York,6212
+2014,Stroke,North Carolina,4702
+2014,Stroke,North Dakota,325
+2014,Stroke,Ohio,5791
+2014,Stroke,Oklahoma,1847
+2014,Stroke,Oregon,1821
+2014,Stroke,Pennsylvania,6576
+2014,Stroke,Rhode Island,373
+2014,Stroke,South Carolina,2393
+2014,Stroke,South Dakota,439
+2014,Stroke,Tennessee,3326
+2014,Stroke,Texas,9898
+2014,Stroke,Utah,856
+2014,Stroke,Vermont,266
+2014,Stroke,Virginia,3229
+2014,Stroke,Washington,2649
+2014,Stroke,West Virginia,1103
+2014,Stroke,Wisconsin,2511
+2014,Stroke,Wyoming,189
+2014,Diabetes,Alabama,1281
+2014,Diabetes,Alaska,113
+2014,Diabetes,Arizona,1936
+2014,Diabetes,Arkansas,828
+2014,Diabetes,California,8249
+2014,Diabetes,Colorado,835
+2014,Diabetes,Connecticut,685
+2014,Diabetes,Delaware,226
+2014,Diabetes,District of Columbia,119
+2014,Diabetes,Florida,5371
+2014,Diabetes,Georgia,2230
+2014,Diabetes,Hawaii,276
+2014,Diabetes,Idaho,409
+2014,Diabetes,Illinois,2712
+2014,Diabetes,Indiana,1819
+2014,Diabetes,Iowa,1019
+2014,Diabetes,Kansas,643
+2014,Diabetes,Kentucky,1175
+2014,Diabetes,Louisiana,1238
+2014,Diabetes,Maine,414
+2014,Diabetes,Maryland,1305
+2014,Diabetes,Massachusetts,1202
+2014,Diabetes,Michigan,2844
+2014,Diabetes,Minnesota,1193
+2014,Diabetes,Mississippi,1015
+2014,Diabetes,Missouri,1423
+2014,Diabetes,Montana,250
+2014,Diabetes,Nebraska,473
+2014,Diabetes,Nevada,350
+2014,Diabetes,New Hampshire,300
+2014,Diabetes,New Jersey,2062
+2014,Diabetes,New Mexico,671
+2014,Diabetes,New York,4064
+2014,Diabetes,North Carolina,2687
+2014,Diabetes,North Dakota,176
+2014,Diabetes,Ohio,3641
+2014,Diabetes,Oklahoma,1261
+2014,Diabetes,Oregon,1083
+2014,Diabetes,Pennsylvania,3765
+2014,Diabetes,Rhode Island,252
+2014,Diabetes,South Carolina,1239
+2014,Diabetes,South Dakota,224
+2014,Diabetes,Tennessee,1727
+2014,Diabetes,Texas,5348
+2014,Diabetes,Utah,570
+2014,Diabetes,Vermont,154
+2014,Diabetes,Virginia,1683
+2014,Diabetes,Washington,1668
+2014,Diabetes,West Virginia,818
+2014,Diabetes,Wisconsin,1352
+2014,Diabetes,Wyoming,110
+2014,Heart disease,Alabama,12461
+2014,Heart disease,Alaska,782
+2014,Heart disease,Arizona,10805
+2014,Heart disease,Arkansas,7581
+2014,Heart disease,California,58189
+2014,Heart disease,Colorado,6900
+2014,Heart disease,Connecticut,7018
+2014,Heart disease,Delaware,1921
+2014,Heart disease,District of Columbia,1324
+2014,Heart disease,Florida,44511
+2014,Heart disease,Georgia,17107
+2014,Heart disease,Hawaii,2528
+2014,Heart disease,Idaho,2676
+2014,Heart disease,Illinois,25024
+2014,Heart disease,Indiana,13764
+2014,Heart disease,Iowa,6615
+2014,Heart disease,Kansas,5479
+2014,Heart disease,Kentucky,10013
+2014,Heart disease,Louisiana,10647
+2014,Heart disease,Maine,2776
+2014,Heart disease,Maryland,11135
+2014,Heart disease,Massachusetts,11817
+2014,Heart disease,Michigan,24692
+2014,Heart disease,Minnesota,7659
+2014,Heart disease,Mississippi,7538
+2014,Heart disease,Missouri,14338
+2014,Heart disease,Montana,1957
+2014,Heart disease,Nebraska,3296
+2014,Heart disease,Nevada,5761
+2014,Heart disease,New Hampshire,2464
+2014,Heart disease,New Jersey,18319
+2014,Heart disease,New Mexico,3424
+2014,Heart disease,New York,43116
+2014,Heart disease,North Carolina,17592
+2014,Heart disease,North Dakota,1381
+2014,Heart disease,Ohio,27000
+2014,Heart disease,Oklahoma,9868
+2014,Heart disease,Oregon,6524
+2014,Heart disease,Pennsylvania,31353
+2014,Heart disease,Rhode Island,2341
+2014,Heart disease,South Carolina,9964
+2014,Heart disease,South Dakota,1704
+2014,Heart disease,Tennessee,15223
+2014,Heart disease,Texas,41479
+2014,Heart disease,Utah,3431
+2014,Heart disease,Vermont,1311
+2014,Heart disease,Virginia,13874
+2014,Heart disease,Washington,10710
+2014,Heart disease,West Virginia,4692
+2014,Heart disease,Wisconsin,11229
+2014,Heart disease,Wyoming,1035
+2013,Stroke,Alabama,2604
+2013,Stroke,Alaska,189
+2013,Stroke,Arizona,2162
+2013,Stroke,Arkansas,1637
+2013,Stroke,California,13698
+2013,Stroke,Colorado,1588
+2013,Stroke,Connecticut,1348
+2013,Stroke,Delaware,409
+2013,Stroke,District of Columbia,187
+2013,Stroke,Florida,8698
+2013,Stroke,Georgia,3694
+2013,Stroke,Hawaii,634
+2013,Stroke,Idaho,598
+2013,Stroke,Illinois,5294
+2013,Stroke,Indiana,2996
+2013,Stroke,Iowa,1409
+2013,Stroke,Kansas,1320
+2013,Stroke,Kentucky,1990
+2013,Stroke,Louisiana,2098
+2013,Stroke,Maine,620
+2013,Stroke,Maryland,2315
+2013,Stroke,Massachusetts,2354
+2013,Stroke,Michigan,4373
+2013,Stroke,Minnesota,2073
+2013,Stroke,Mississippi,1500
+2013,Stroke,Missouri,2935
+2013,Stroke,Montana,480
+2013,Stroke,Nebraska,820
+2013,Stroke,Nevada,905
+2013,Stroke,New Hampshire,441
+2013,Stroke,New Jersey,3456
+2013,Stroke,New Mexico,689
+2013,Stroke,New York,6176
+2013,Stroke,North Carolina,4503
+2013,Stroke,North Dakota,306
+2013,Stroke,Ohio,5690
+2013,Stroke,Oklahoma,1880
+2013,Stroke,Oregon,1775
+2013,Stroke,Pennsylvania,6604
+2013,Stroke,Rhode Island,397
+2013,Stroke,South Carolina,2508
+2013,Stroke,South Dakota,418
+2013,Stroke,Tennessee,3157
+2013,Stroke,Texas,9283
+2013,Stroke,Utah,836
+2013,Stroke,Vermont,260
+2013,Stroke,Virginia,3287
+2013,Stroke,Washington,2652
+2013,Stroke,West Virginia,983
+2013,Stroke,Wisconsin,2536
+2013,Stroke,Wyoming,213
+2013,Diabetes,Alabama,1349
+2013,Diabetes,Alaska,112
+2013,Diabetes,Arizona,1786
+2013,Diabetes,Arkansas,835
+2013,Diabetes,California,8057
+2013,Diabetes,Colorado,788
+2013,Diabetes,Connecticut,664
+2013,Diabetes,Delaware,218
+2013,Diabetes,District of Columbia,108
+2013,Diabetes,Florida,5238
+2013,Diabetes,Georgia,2199
+2013,Diabetes,Hawaii,271
+2013,Diabetes,Idaho,404
+2013,Diabetes,Illinois,2798
+2013,Diabetes,Indiana,1943
+2013,Diabetes,Iowa,747
+2013,Diabetes,Kansas,654
+2013,Diabetes,Kentucky,1187
+2013,Diabetes,Louisiana,1329
+2013,Diabetes,Maine,373
+2013,Diabetes,Maryland,1249
+2013,Diabetes,Massachusetts,1142
+2013,Diabetes,Michigan,2825
+2013,Diabetes,Minnesota,1163
+2013,Diabetes,Mississippi,1071
+2013,Diabetes,Missouri,1477
+2013,Diabetes,Montana,250
+2013,Diabetes,Nebraska,471
+2013,Diabetes,Nevada,424
+2013,Diabetes,New Hampshire,310
+2013,Diabetes,New Jersey,2043
+2013,Diabetes,New Mexico,646
+2013,Diabetes,New York,4094
+2013,Diabetes,North Carolina,2402
+2013,Diabetes,North Dakota,197
+2013,Diabetes,Ohio,3563
+2013,Diabetes,Oklahoma,1269
+2013,Diabetes,Oregon,1109
+2013,Diabetes,Pennsylvania,3804
+2013,Diabetes,Rhode Island,258
+2013,Diabetes,South Carolina,1240
+2013,Diabetes,South Dakota,237
+2013,Diabetes,Tennessee,1827
+2013,Diabetes,Texas,5273
+2013,Diabetes,Utah,578
+2013,Diabetes,Vermont,139
+2013,Diabetes,Virginia,1626
+2013,Diabetes,Washington,1616
+2013,Diabetes,West Virginia,841
+2013,Diabetes,Wisconsin,1285
+2013,Diabetes,Wyoming,89
+2013,Heart disease,Alabama,12472
+2013,Heart disease,Alaska,706
+2013,Heart disease,Arizona,10755
+2013,Heart disease,Arkansas,7377
+2013,Heart disease,California,60299
+2013,Heart disease,Colorado,6456
+2013,Heart disease,Connecticut,7090
+2013,Heart disease,Delaware,1861
+2013,Heart disease,District of Columbia,1340
+2013,Heart disease,Florida,42656
+2013,Heart disease,Georgia,16550
+2013,Heart disease,Hawaii,2521
+2013,Heart disease,Idaho,2495
+2013,Heart disease,Illinois,24839
+2013,Heart disease,Indiana,13773
+2013,Heart disease,Iowa,6995
+2013,Heart disease,Kansas,5364
+2013,Heart disease,Kentucky,9971
+2013,Heart disease,Louisiana,10346
+2013,Heart disease,Maine,2807
+2013,Heart disease,Maryland,11244
+2013,Heart disease,Massachusetts,12023
+2013,Heart disease,Michigan,24156
+2013,Heart disease,Minnesota,7714
+2013,Heart disease,Mississippi,7715
+2013,Heart disease,Missouri,14095
+2013,Heart disease,Montana,2004
+2013,Heart disease,Nebraska,3381
+2013,Heart disease,Nevada,5434
+2013,Heart disease,New Hampshire,2434
+2013,Heart disease,New Jersey,18460
+2013,Heart disease,New Mexico,3425
+2013,Heart disease,New York,44039
+2013,Heart disease,North Carolina,17830
+2013,Heart disease,North Dakota,1382
+2013,Heart disease,Ohio,26878
+2013,Heart disease,Oklahoma,9721
+2013,Heart disease,Oregon,6523
+2013,Heart disease,Pennsylvania,31629
+2013,Heart disease,Rhode Island,2364
+2013,Heart disease,South Carolina,9648
+2013,Heart disease,South Dakota,1630
+2013,Heart disease,Tennessee,14803
+2013,Heart disease,Texas,40203
+2013,Heart disease,Utah,3323
+2013,Heart disease,Vermont,1220
+2013,Heart disease,Virginia,13663
+2013,Heart disease,Washington,10524
+2013,Heart disease,West Virginia,4666
+2013,Heart disease,Wisconsin,11362
+2013,Heart disease,Wyoming,939
+2012,Stroke,Alabama,2628
+2012,Stroke,Alaska,188
+2012,Stroke,Arizona,2164
+2012,Stroke,Arkansas,1664
+2012,Stroke,California,13542
+2012,Stroke,Colorado,1576
+2012,Stroke,Connecticut,1273
+2012,Stroke,Delaware,404
+2012,Stroke,District of Columbia,207
+2012,Stroke,Florida,8456
+2012,Stroke,Georgia,3636
+2012,Stroke,Hawaii,634
+2012,Stroke,Idaho,610
+2012,Stroke,Illinois,5337
+2012,Stroke,Indiana,3073
+2012,Stroke,Iowa,1422
+2012,Stroke,Kansas,1343
+2012,Stroke,Kentucky,2073
+2012,Stroke,Louisiana,2039
+2012,Stroke,Maine,619
+2012,Stroke,Maryland,2280
+2012,Stroke,Massachusetts,2371
+2012,Stroke,Michigan,4414
+2012,Stroke,Minnesota,2081
+2012,Stroke,Mississippi,1502
+2012,Stroke,Missouri,2989
+2012,Stroke,Montana,415
+2012,Stroke,Nebraska,776
+2012,Stroke,Nevada,897
+2012,Stroke,New Hampshire,457
+2012,Stroke,New Jersey,3440
+2012,Stroke,New Mexico,677
+2012,Stroke,New York,6139
+2012,Stroke,North Carolina,4410
+2012,Stroke,North Dakota,343
+2012,Stroke,Ohio,5788
+2012,Stroke,Oklahoma,1893
+2012,Stroke,Oregon,1763
+2012,Stroke,Pennsylvania,6546
+2012,Stroke,Rhode Island,433
+2012,Stroke,South Carolina,2349
+2012,Stroke,South Dakota,408
+2012,Stroke,Tennessee,3120
+2012,Stroke,Texas,9305
+2012,Stroke,Utah,809
+2012,Stroke,Vermont,281
+2012,Stroke,Virginia,3394
+2012,Stroke,Washington,2513
+2012,Stroke,West Virginia,1140
+2012,Stroke,Wisconsin,2520
+2012,Stroke,Wyoming,205
+2012,Diabetes,Alabama,1300
+2012,Diabetes,Alaska,107
+2012,Diabetes,Arizona,1736
+2012,Diabetes,Arkansas,833
+2012,Diabetes,California,7895
+2012,Diabetes,Colorado,797
+2012,Diabetes,Connecticut,631
+2012,Diabetes,Delaware,241
+2012,Diabetes,District of Columbia,145
+2012,Diabetes,Florida,5092
+2012,Diabetes,Georgia,2088
+2012,Diabetes,Hawaii,277
+2012,Diabetes,Idaho,371
+2012,Diabetes,Illinois,2706
+2012,Diabetes,Indiana,1860
+2012,Diabetes,Iowa,692
+2012,Diabetes,Kansas,639
+2012,Diabetes,Kentucky,1256
+2012,Diabetes,Louisiana,1290
+2012,Diabetes,Maine,380
+2012,Diabetes,Maryland,1218
+2012,Diabetes,Massachusetts,1099
+2012,Diabetes,Michigan,2685
+2012,Diabetes,Minnesota,1165
+2012,Diabetes,Mississippi,1050
+2012,Diabetes,Missouri,1377
+2012,Diabetes,Montana,233
+2012,Diabetes,Nebraska,442
+2012,Diabetes,Nevada,438
+2012,Diabetes,New Hampshire,275
+2012,Diabetes,New Jersey,1988
+2012,Diabetes,New Mexico,652
+2012,Diabetes,New York,4010
+2012,Diabetes,North Carolina,2409
+2012,Diabetes,North Dakota,185
+2012,Diabetes,Ohio,3618
+2012,Diabetes,Oklahoma,1201
+2012,Diabetes,Oregon,1126
+2012,Diabetes,Pennsylvania,3735
+2012,Diabetes,Rhode Island,198
+2012,Diabetes,South Carolina,1197
+2012,Diabetes,South Dakota,218
+2012,Diabetes,Tennessee,1852
+2012,Diabetes,Texas,5136
+2012,Diabetes,Utah,541
+2012,Diabetes,Vermont,168
+2012,Diabetes,Virginia,1603
+2012,Diabetes,Washington,1650
+2012,Diabetes,West Virginia,741
+2012,Diabetes,Wisconsin,1289
+2012,Diabetes,Wyoming,97
+2012,Heart disease,Alabama,12036
+2012,Heart disease,Alaska,708
+2012,Heart disease,Arizona,10689
+2012,Heart disease,Arkansas,7407
+2012,Heart disease,California,59371
+2012,Heart disease,Colorado,6311
+2012,Heart disease,Connecticut,7282
+2012,Heart disease,Delaware,1790
+2012,Heart disease,District of Columbia,1298
+2012,Heart disease,Florida,42125
+2012,Heart disease,Georgia,15825
+2012,Heart disease,Hawaii,2430
+2012,Heart disease,Idaho,2515
+2012,Heart disease,Illinois,24667
+2012,Heart disease,Indiana,13675
+2012,Heart disease,Iowa,7005
+2012,Heart disease,Kansas,5366
+2012,Heart disease,Kentucky,10024
+2012,Heart disease,Louisiana,10074
+2012,Heart disease,Maine,2623
+2012,Heart disease,Maryland,11023
+2012,Heart disease,Massachusetts,11602
+2012,Heart disease,Michigan,23520
+2012,Heart disease,Minnesota,7496
+2012,Heart disease,Mississippi,7269
+2012,Heart disease,Missouri,13742
+2012,Heart disease,Montana,1903
+2012,Heart disease,Nebraska,3307
+2012,Heart disease,Nevada,5166
+2012,Heart disease,New Hampshire,2324
+2012,Heart disease,New Jersey,18340
+2012,Heart disease,New Mexico,3352
+2012,Heart disease,New York,43795
+2012,Heart disease,North Carolina,17348
+2012,Heart disease,North Dakota,1368
+2012,Heart disease,Ohio,26426
+2012,Heart disease,Oklahoma,9198
+2012,Heart disease,Oregon,6180
+2012,Heart disease,Pennsylvania,30952
+2012,Heart disease,Rhode Island,2360
+2012,Heart disease,South Carolina,9364
+2012,Heart disease,South Dakota,1668
+2012,Heart disease,Tennessee,14454
+2012,Heart disease,Texas,39061
+2012,Heart disease,Utah,3091
+2012,Heart disease,Vermont,1206
+2012,Heart disease,Virginia,13386
+2012,Heart disease,Washington,10360
+2012,Heart disease,West Virginia,4942
+2012,Heart disease,Wisconsin,11282
+2012,Heart disease,Wyoming,1005
+2011,Stroke,Alabama,2568
+2011,Stroke,Alaska,168
+2011,Stroke,Arizona,2148
+2011,Stroke,Arkansas,1692
+2011,Stroke,California,13503
+2011,Stroke,Colorado,1606
+2011,Stroke,Connecticut,1315
+2011,Stroke,Delaware,418
+2011,Stroke,District of Columbia,209
+2011,Stroke,Florida,8411
+2011,Stroke,Georgia,3564
+2011,Stroke,Hawaii,621
+2011,Stroke,Idaho,623
+2011,Stroke,Illinois,5372
+2011,Stroke,Indiana,3127
+2011,Stroke,Iowa,1432
+2011,Stroke,Kansas,1338
+2011,Stroke,Kentucky,2064
+2011,Stroke,Louisiana,2071
+2011,Stroke,Maine,630
+2011,Stroke,Maryland,2306
+2011,Stroke,Massachusetts,2466
+2011,Stroke,Michigan,4442
+2011,Stroke,Minnesota,2154
+2011,Stroke,Mississippi,1526
+2011,Stroke,Missouri,3033
+2011,Stroke,Montana,460
+2011,Stroke,Nebraska,810
+2011,Stroke,Nevada,889
+2011,Stroke,New Hampshire,490
+2011,Stroke,New Jersey,3418
+2011,Stroke,New Mexico,727
+2011,Stroke,New York,6254
+2011,Stroke,North Carolina,4299
+2011,Stroke,North Dakota,337
+2011,Stroke,Ohio,5691
+2011,Stroke,Oklahoma,1864
+2011,Stroke,Oregon,1913
+2011,Stroke,Pennsylvania,6825
+2011,Stroke,Rhode Island,404
+2011,Stroke,South Carolina,2287
+2011,Stroke,South Dakota,444
+2011,Stroke,Tennessee,3218
+2011,Stroke,Texas,9065
+2011,Stroke,Utah,782
+2011,Stroke,Vermont,227
+2011,Stroke,Virginia,3347
+2011,Stroke,Washington,2557
+2011,Stroke,West Virginia,1049
+2011,Stroke,Wisconsin,2554
+2011,Stroke,Wyoming,214
+2011,Diabetes,Alabama,1278
+2011,Diabetes,Alaska,107
+2011,Diabetes,Arizona,1740
+2011,Diabetes,Arkansas,908
+2011,Diabetes,California,7695
+2011,Diabetes,Colorado,790
+2011,Diabetes,Connecticut,692
+2011,Diabetes,Delaware,224
+2011,Diabetes,District of Columbia,152
+2011,Diabetes,Florida,5093
+2011,Diabetes,Georgia,2121
+2011,Diabetes,Hawaii,264
+2011,Diabetes,Idaho,393
+2011,Diabetes,Illinois,2693
+2011,Diabetes,Indiana,1808
+2011,Diabetes,Iowa,770
+2011,Diabetes,Kansas,711
+2011,Diabetes,Kentucky,1268
+2011,Diabetes,Louisiana,1265
+2011,Diabetes,Maine,353
+2011,Diabetes,Maryland,1297
+2011,Diabetes,Massachusetts,1140
+2011,Diabetes,Michigan,2811
+2011,Diabetes,Minnesota,1189
+2011,Diabetes,Mississippi,996
+2011,Diabetes,Missouri,1438
+2011,Diabetes,Montana,252
+2011,Diabetes,Nebraska,460
+2011,Diabetes,Nevada,400
+2011,Diabetes,New Hampshire,280
+2011,Diabetes,New Jersey,2222
+2011,Diabetes,New Mexico,612
+2011,Diabetes,New York,3988
+2011,Diabetes,North Carolina,2278
+2011,Diabetes,North Dakota,207
+2011,Diabetes,Ohio,3668
+2011,Diabetes,Oklahoma,1221
+2011,Diabetes,Oregon,1113
+2011,Diabetes,Pennsylvania,3462
+2011,Diabetes,Rhode Island,180
+2011,Diabetes,South Carolina,1090
+2011,Diabetes,South Dakota,263
+2011,Diabetes,Tennessee,1748
+2011,Diabetes,Texas,5091
+2011,Diabetes,Utah,561
+2011,Diabetes,Vermont,168
+2011,Diabetes,Virginia,1643
+2011,Diabetes,Washington,1633
+2011,Diabetes,West Virginia,790
+2011,Diabetes,Wisconsin,1197
+2011,Diabetes,Wyoming,108
+2011,Heart disease,Alabama,11942
+2011,Heart disease,Alaska,739
+2011,Heart disease,Arizona,10662
+2011,Heart disease,Arkansas,7168
+2011,Heart disease,California,59772
+2011,Heart disease,Colorado,6177
+2011,Heart disease,Connecticut,7206
+2011,Heart disease,Delaware,1809
+2011,Heart disease,District of Columbia,1171
+2011,Heart disease,Florida,40919
+2011,Heart disease,Georgia,15773
+2011,Heart disease,Hawaii,2312
+2011,Heart disease,Idaho,2522
+2011,Heart disease,Illinois,24987
+2011,Heart disease,Indiana,13372
+2011,Heart disease,Iowa,6736
+2011,Heart disease,Kansas,5327
+2011,Heart disease,Kentucky,9905
+2011,Heart disease,Louisiana,9781
+2011,Heart disease,Maine,2648
+2011,Heart disease,Maryland,10557
+2011,Heart disease,Massachusetts,11765
+2011,Heart disease,Michigan,23358
+2011,Heart disease,Minnesota,7240
+2011,Heart disease,Mississippi,7335
+2011,Heart disease,Missouri,13810
+2011,Heart disease,Montana,1921
+2011,Heart disease,Nebraska,3265
+2011,Heart disease,Nevada,5043
+2011,Heart disease,New Hampshire,2333
+2011,Heart disease,New Jersey,18330
+2011,Heart disease,New Mexico,3333
+2011,Heart disease,New York,44501
+2011,Heart disease,North Carolina,17003
+2011,Heart disease,North Dakota,1290
+2011,Heart disease,Ohio,26298
+2011,Heart disease,Oklahoma,9399
+2011,Heart disease,Oregon,6255
+2011,Heart disease,Pennsylvania,31934
+2011,Heart disease,Rhode Island,2390
+2011,Heart disease,South Carolina,9295
+2011,Heart disease,South Dakota,1625
+2011,Heart disease,Tennessee,14235
+2011,Heart disease,Texas,38094
+2011,Heart disease,Utah,3036
+2011,Heart disease,Vermont,1187
+2011,Heart disease,Virginia,13272
+2011,Heart disease,Washington,10439
+2011,Heart disease,West Virginia,4914
+2011,Heart disease,Wisconsin,11266
+2011,Heart disease,Wyoming,926
+2010,Stroke,Alabama,2619
+2010,Stroke,Alaska,167
+2010,Stroke,Arizona,2138
+2010,Stroke,Arkansas,1741
+2010,Stroke,California,13662
+2010,Stroke,Colorado,1607
+2010,Stroke,Connecticut,1349
+2010,Stroke,Delaware,407
+2010,Stroke,District of Columbia,196
+2010,Stroke,Florida,8432
+2010,Stroke,Georgia,3762
+2010,Stroke,Hawaii,605
+2010,Stroke,Idaho,642
+2010,Stroke,Illinois,5349
+2010,Stroke,Indiana,3082
+2010,Stroke,Iowa,1537
+2010,Stroke,Kansas,1370
+2010,Stroke,Kentucky,1992
+2010,Stroke,Louisiana,1977
+2010,Stroke,Maine,602
+2010,Stroke,Maryland,2279
+2010,Stroke,Massachusetts,2516
+2010,Stroke,Michigan,4474
+2010,Stroke,Minnesota,2167
+2010,Stroke,Mississippi,1520
+2010,Stroke,Missouri,3001
+2010,Stroke,Montana,494
+2010,Stroke,Nebraska,876
+2010,Stroke,Nevada,796
+2010,Stroke,New Hampshire,500
+2010,Stroke,New Jersey,3402
+2010,Stroke,New Mexico,806
+2010,Stroke,New York,6213
+2010,Stroke,North Carolina,4298
+2010,Stroke,North Dakota,382
+2010,Stroke,Ohio,5755
+2010,Stroke,Oklahoma,1980
+2010,Stroke,Oregon,1793
+2010,Stroke,Pennsylvania,6701
+2010,Stroke,Rhode Island,431
+2010,Stroke,South Carolina,2293
+2010,Stroke,South Dakota,416
+2010,Stroke,Tennessee,3205
+2010,Stroke,Texas,9180
+2010,Stroke,Utah,739
+2010,Stroke,Vermont,265
+2010,Stroke,Virginia,3293
+2010,Stroke,Washington,2548
+2010,Stroke,West Virginia,1104
+2010,Stroke,Wisconsin,2609
+2010,Stroke,Wyoming,204
+2010,Diabetes,Alabama,1302
+2010,Diabetes,Alaska,86
+2010,Diabetes,Arizona,1389
+2010,Diabetes,Arkansas,850
+2010,Diabetes,California,7061
+2010,Diabetes,Colorado,721
+2010,Diabetes,Connecticut,662
+2010,Diabetes,Delaware,196
+2010,Diabetes,District of Columbia,145
+2010,Diabetes,Florida,5024
+2010,Diabetes,Georgia,1996
+2010,Diabetes,Hawaii,272
+2010,Diabetes,Idaho,353
+2010,Diabetes,Illinois,2507
+2010,Diabetes,Indiana,1587
+2010,Diabetes,Iowa,733
+2010,Diabetes,Kansas,655
+2010,Diabetes,Kentucky,1212
+2010,Diabetes,Louisiana,1205
+2010,Diabetes,Maine,376
+2010,Diabetes,Maryland,1191
+2010,Diabetes,Massachusetts,1028
+2010,Diabetes,Michigan,2697
+2010,Diabetes,Minnesota,1037
+2010,Diabetes,Mississippi,926
+2010,Diabetes,Missouri,1425
+2010,Diabetes,Montana,227
+2010,Diabetes,Nebraska,452
+2010,Diabetes,Nevada,350
+2010,Diabetes,New Hampshire,236
+2010,Diabetes,New Jersey,2098
+2010,Diabetes,New Mexico,643
+2010,Diabetes,New York,3642
+2010,Diabetes,North Carolina,2042
+2010,Diabetes,North Dakota,192
+2010,Diabetes,Ohio,3470
+2010,Diabetes,Oklahoma,1089
+2010,Diabetes,Oregon,1052
+2010,Diabetes,Pennsylvania,3242
+2010,Diabetes,Rhode Island,211
+2010,Diabetes,South Carolina,1128
+2010,Diabetes,South Dakota,240
+2010,Diabetes,Tennessee,1687
+2010,Diabetes,Texas,4744
+2010,Diabetes,Utah,471
+2010,Diabetes,Vermont,151
+2010,Diabetes,Virginia,1530
+2010,Diabetes,Washington,1499
+2010,Diabetes,West Virginia,776
+2010,Diabetes,Wisconsin,1158
+2010,Diabetes,Wyoming,105
+2010,Heart disease,Alabama,12083
+2010,Heart disease,Alaska,707
+2010,Heart disease,Arizona,9954
+2010,Heart disease,Arkansas,7274
+2010,Heart disease,California,58641
+2010,Heart disease,Colorado,6038
+2010,Heart disease,Connecticut,7127
+2010,Heart disease,Delaware,1776
+2010,Heart disease,District of Columbia,1306
+2010,Heart disease,Florida,41737
+2010,Heart disease,Georgia,15987
+2010,Heart disease,Hawaii,2239
+2010,Heart disease,Idaho,2495
+2010,Heart disease,Illinois,24959
+2010,Heart disease,Indiana,13388
+2010,Heart disease,Iowa,6880
+2010,Heart disease,Kansas,5433
+2010,Heart disease,Kentucky,9662
+2010,Heart disease,Louisiana,10282
+2010,Heart disease,Maine,2628
+2010,Heart disease,Maryland,10915
+2010,Heart disease,Massachusetts,12043
+2010,Heart disease,Michigan,23326
+2010,Heart disease,Minnesota,7185
+2010,Heart disease,Mississippi,7542
+2010,Heart disease,Missouri,13840
+2010,Heart disease,Montana,1849
+2010,Heart disease,Nebraska,3355
+2010,Heart disease,Nevada,4811
+2010,Heart disease,New Hampshire,2290
+2010,Heart disease,New Jersey,18730
+2010,Heart disease,New Mexico,3224
+2010,Heart disease,New York,44981
+2010,Heart disease,North Carolina,17154
+2010,Heart disease,North Dakota,1395
+2010,Heart disease,Ohio,26164
+2010,Heart disease,Oklahoma,9426
+2010,Heart disease,Oregon,6198
+2010,Heart disease,Pennsylvania,31556
+2010,Heart disease,Rhode Island,2322
+2010,Heart disease,South Carolina,9295
+2010,Heart disease,South Dakota,1616
+2010,Heart disease,Tennessee,14582
+2010,Heart disease,Texas,38253
+2010,Heart disease,Utah,2889
+2010,Heart disease,Vermont,1172
+2010,Heart disease,Virginia,13404
+2010,Heart disease,Washington,10602
+2010,Heart disease,West Virginia,4897
+2010,Heart disease,Wisconsin,11115
+2010,Heart disease,Wyoming,962
+2009,Stroke,Alabama,2675
+2009,Stroke,Alaska,162
+2009,Stroke,Arizona,2072
+2009,Stroke,Arkansas,1694
+2009,Stroke,California,13506
+2009,Stroke,Colorado,1532
+2009,Stroke,Connecticut,1460
+2009,Stroke,Delaware,415
+2009,Stroke,District of Columbia,199
+2009,Stroke,Florida,8395
+2009,Stroke,Georgia,3732
+2009,Stroke,Hawaii,671
+2009,Stroke,Idaho,627
+2009,Stroke,Illinois,5258
+2009,Stroke,Indiana,3004
+2009,Stroke,Iowa,1635
+2009,Stroke,Kansas,1416
+2009,Stroke,Kentucky,2064
+2009,Stroke,Louisiana,2061
+2009,Stroke,Maine,647
+2009,Stroke,Maryland,2288
+2009,Stroke,Massachusetts,2579
+2009,Stroke,Michigan,4435
+2009,Stroke,Minnesota,2033
+2009,Stroke,Mississippi,1436
+2009,Stroke,Missouri,3017
+2009,Stroke,Montana,462
+2009,Stroke,Nebraska,857
+2009,Stroke,Nevada,859
+2009,Stroke,New Hampshire,499
+2009,Stroke,New Jersey,3265
+2009,Stroke,New Mexico,726
+2009,Stroke,New York,5950
+2009,Stroke,North Carolina,4442
+2009,Stroke,North Dakota,337
+2009,Stroke,Ohio,5576
+2009,Stroke,Oklahoma,1961
+2009,Stroke,Oregon,1912
+2009,Stroke,Pennsylvania,6842
+2009,Stroke,Rhode Island,429
+2009,Stroke,South Carolina,2400
+2009,Stroke,South Dakota,418
+2009,Stroke,Tennessee,3156
+2009,Stroke,Texas,9137
+2009,Stroke,Utah,738
+2009,Stroke,Vermont,221
+2009,Stroke,Virginia,3244
+2009,Stroke,Washington,2591
+2009,Stroke,West Virginia,1073
+2009,Stroke,Wisconsin,2501
+2009,Stroke,Wyoming,233
+2009,Diabetes,Alabama,1259
+2009,Diabetes,Alaska,84
+2009,Diabetes,Arizona,1083
+2009,Diabetes,Arkansas,890
+2009,Diabetes,California,6979
+2009,Diabetes,Colorado,779
+2009,Diabetes,Connecticut,624
+2009,Diabetes,Delaware,206
+2009,Diabetes,District of Columbia,129
+2009,Diabetes,Florida,4901
+2009,Diabetes,Georgia,1582
+2009,Diabetes,Hawaii,308
+2009,Diabetes,Idaho,372
+2009,Diabetes,Illinois,2741
+2009,Diabetes,Indiana,1646
+2009,Diabetes,Iowa,702
+2009,Diabetes,Kansas,635
+2009,Diabetes,Kentucky,1348
+2009,Diabetes,Louisiana,1249
+2009,Diabetes,Maine,350
+2009,Diabetes,Maryland,1207
+2009,Diabetes,Massachusetts,1007
+2009,Diabetes,Michigan,2705
+2009,Diabetes,Minnesota,1021
+2009,Diabetes,Mississippi,900
+2009,Diabetes,Missouri,1335
+2009,Diabetes,Montana,228
+2009,Diabetes,Nebraska,445
+2009,Diabetes,Nevada,377
+2009,Diabetes,New Hampshire,276
+2009,Diabetes,New Jersey,1959
+2009,Diabetes,New Mexico,597
+2009,Diabetes,New York,3723
+2009,Diabetes,North Carolina,2114
+2009,Diabetes,North Dakota,214
+2009,Diabetes,Ohio,3401
+2009,Diabetes,Oklahoma,1146
+2009,Diabetes,Oregon,1073
+2009,Diabetes,Pennsylvania,3254
+2009,Diabetes,Rhode Island,213
+2009,Diabetes,South Carolina,1128
+2009,Diabetes,South Dakota,202
+2009,Diabetes,Tennessee,1759
+2009,Diabetes,Texas,4873
+2009,Diabetes,Utah,463
+2009,Diabetes,Vermont,143
+2009,Diabetes,Virginia,1560
+2009,Diabetes,Washington,1554
+2009,Diabetes,West Virginia,746
+2009,Diabetes,Wisconsin,1110
+2009,Diabetes,Wyoming,105
+2009,Heart disease,Alabama,12021
+2009,Heart disease,Alaska,714
+2009,Heart disease,Arizona,10273
+2009,Heart disease,Arkansas,7295
+2009,Heart disease,California,59206
+2009,Heart disease,Colorado,6093
+2009,Heart disease,Connecticut,7105
+2009,Heart disease,Delaware,1796
+2009,Heart disease,District of Columbia,1288
+2009,Heart disease,Florida,41274
+2009,Heart disease,Georgia,16165
+2009,Heart disease,Hawaii,2363
+2009,Heart disease,Idaho,2398
+2009,Heart disease,Illinois,24931
+2009,Heart disease,Indiana,13509
+2009,Heart disease,Iowa,6938
+2009,Heart disease,Kansas,5294
+2009,Heart disease,Kentucky,9728
+2009,Heart disease,Louisiana,10169
+2009,Heart disease,Maine,2674
+2009,Heart disease,Maryland,11210
+2009,Heart disease,Massachusetts,12322
+2009,Heart disease,Michigan,23099
+2009,Heart disease,Minnesota,7238
+2009,Heart disease,Mississippi,7530
+2009,Heart disease,Missouri,13916
+2009,Heart disease,Montana,1832
+2009,Heart disease,Nebraska,3277
+2009,Heart disease,Nevada,4687
+2009,Heart disease,New Hampshire,2268
+2009,Heart disease,New Jersey,18086
+2009,Heart disease,New Mexico,3214
+2009,Heart disease,New York,47283
+2009,Heart disease,North Carolina,17203
+2009,Heart disease,North Dakota,1431
+2009,Heart disease,Ohio,25453
+2009,Heart disease,Oklahoma,9202
+2009,Heart disease,Oregon,6262
+2009,Heart disease,Pennsylvania,32297
+2009,Heart disease,Rhode Island,2411
+2009,Heart disease,South Carolina,9068
+2009,Heart disease,South Dakota,1778
+2009,Heart disease,Tennessee,14257
+2009,Heart disease,Texas,38077
+2009,Heart disease,Utah,2813
+2009,Heart disease,Vermont,1171
+2009,Heart disease,Virginia,13397
+2009,Heart disease,Washington,10561
+2009,Heart disease,West Virginia,5038
+2009,Heart disease,Wisconsin,10834
+2009,Heart disease,Wyoming,964
+2008,Stroke,Alabama,2863
+2008,Stroke,Alaska,172
+2008,Stroke,Arizona,2147
+2008,Stroke,Arkansas,1722
+2008,Stroke,California,14048
+2008,Stroke,Colorado,1565
+2008,Stroke,Connecticut,1433
+2008,Stroke,Delaware,365
+2008,Stroke,District of Columbia,222
+2008,Stroke,Florida,8589
+2008,Stroke,Georgia,3805
+2008,Stroke,Hawaii,642
+2008,Stroke,Idaho,609
+2008,Stroke,Illinois,5788
+2008,Stroke,Indiana,3114
+2008,Stroke,Iowa,1732
+2008,Stroke,Kansas,1574
+2008,Stroke,Kentucky,2098
+2008,Stroke,Louisiana,2084
+2008,Stroke,Maine,671
+2008,Stroke,Maryland,2330
+2008,Stroke,Massachusetts,2747
+2008,Stroke,Michigan,4769
+2008,Stroke,Minnesota,2199
+2008,Stroke,Mississippi,1592
+2008,Stroke,Missouri,3261
+2008,Stroke,Montana,466
+2008,Stroke,Nebraska,863
+2008,Stroke,Nevada,906
+2008,Stroke,New Hampshire,484
+2008,Stroke,New Jersey,3264
+2008,Stroke,New Mexico,760
+2008,Stroke,New York,6123
+2008,Stroke,North Carolina,4637
+2008,Stroke,North Dakota,325
+2008,Stroke,Ohio,5951
+2008,Stroke,Oklahoma,2079
+2008,Stroke,Oregon,1899
+2008,Stroke,Pennsylvania,6942
+2008,Stroke,Rhode Island,462
+2008,Stroke,South Carolina,2394
+2008,Stroke,South Dakota,396
+2008,Stroke,Tennessee,3356
+2008,Stroke,Texas,9629
+2008,Stroke,Utah,748
+2008,Stroke,Vermont,281
+2008,Stroke,Virginia,3301
+2008,Stroke,Washington,2773
+2008,Stroke,West Virginia,1096
+2008,Stroke,Wisconsin,2638
+2008,Stroke,Wyoming,234
+2008,Diabetes,Alabama,1386
+2008,Diabetes,Alaska,93
+2008,Diabetes,Arizona,1173
+2008,Diabetes,Arkansas,901
+2008,Diabetes,California,7375
+2008,Diabetes,Colorado,767
+2008,Diabetes,Connecticut,624
+2008,Diabetes,Delaware,217
+2008,Diabetes,District of Columbia,156
+2008,Diabetes,Florida,5161
+2008,Diabetes,Georgia,1496
+2008,Diabetes,Hawaii,286
+2008,Diabetes,Idaho,356
+2008,Diabetes,Illinois,2846
+2008,Diabetes,Indiana,1683
+2008,Diabetes,Iowa,764
+2008,Diabetes,Kansas,706
+2008,Diabetes,Kentucky,1214
+2008,Diabetes,Louisiana,1332
+2008,Diabetes,Maine,344
+2008,Diabetes,Maryland,1239
+2008,Diabetes,Massachusetts,1079
+2008,Diabetes,Michigan,2752
+2008,Diabetes,Minnesota,1087
+2008,Diabetes,Mississippi,758
+2008,Diabetes,Missouri,1348
+2008,Diabetes,Montana,254
+2008,Diabetes,Nebraska,470
+2008,Diabetes,Nevada,373
+2008,Diabetes,New Hampshire,297
+2008,Diabetes,New Jersey,2242
+2008,Diabetes,New Mexico,582
+2008,Diabetes,New York,3605
+2008,Diabetes,North Carolina,2170
+2008,Diabetes,North Dakota,201
+2008,Diabetes,Ohio,3565
+2008,Diabetes,Oklahoma,1103
+2008,Diabetes,Oregon,1025
+2008,Diabetes,Pennsylvania,3313
+2008,Diabetes,Rhode Island,195
+2008,Diabetes,South Carolina,1133
+2008,Diabetes,South Dakota,216
+2008,Diabetes,Tennessee,1733
+2008,Diabetes,Texas,5155
+2008,Diabetes,Utah,468
+2008,Diabetes,Vermont,151
+2008,Diabetes,Virginia,1534
+2008,Diabetes,Washington,1590
+2008,Diabetes,West Virginia,753
+2008,Diabetes,Wisconsin,1152
+2008,Diabetes,Wyoming,130
+2008,Heart disease,Alabama,12074
+2008,Heart disease,Alaska,634
+2008,Heart disease,Arizona,10385
+2008,Heart disease,Arkansas,7516
+2008,Heart disease,California,60709
+2008,Heart disease,Colorado,6118
+2008,Heart disease,Connecticut,7355
+2008,Heart disease,Delaware,1777
+2008,Heart disease,District of Columbia,1389
+2008,Heart disease,Florida,42067
+2008,Heart disease,Georgia,15721
+2008,Heart disease,Hawaii,2313
+2008,Heart disease,Idaho,2330
+2008,Heart disease,Illinois,26078
+2008,Heart disease,Indiana,13663
+2008,Heart disease,Iowa,7284
+2008,Heart disease,Kansas,5643
+2008,Heart disease,Kentucky,10061
+2008,Heart disease,Louisiana,10347
+2008,Heart disease,Maine,2785
+2008,Heart disease,Maryland,11157
+2008,Heart disease,Massachusetts,12776
+2008,Heart disease,Michigan,24344
+2008,Heart disease,Minnesota,7367
+2008,Heart disease,Mississippi,7997
+2008,Heart disease,Missouri,14644
+2008,Heart disease,Montana,1975
+2008,Heart disease,Nebraska,3459
+2008,Heart disease,Nevada,4646
+2008,Heart disease,New Hampshire,2409
+2008,Heart disease,New Jersey,19056
+2008,Heart disease,New Mexico,3275
+2008,Heart disease,New York,49324
+2008,Heart disease,North Carolina,17335
+2008,Heart disease,North Dakota,1391
+2008,Heart disease,Ohio,27324
+2008,Heart disease,Oklahoma,9767
+2008,Heart disease,Oregon,6519
+2008,Heart disease,Pennsylvania,33308
+2008,Heart disease,Rhode Island,2657
+2008,Heart disease,South Carolina,8996
+2008,Heart disease,South Dakota,1681
+2008,Heart disease,Tennessee,14661
+2008,Heart disease,Texas,38384
+2008,Heart disease,Utah,2844
+2008,Heart disease,Vermont,1216
+2008,Heart disease,Virginia,13675
+2008,Heart disease,Washington,10916
+2008,Heart disease,West Virginia,5264
+2008,Heart disease,Wisconsin,11275
+2008,Heart disease,Wyoming,937
+2007,Stroke,Alabama,2747
+2007,Stroke,Alaska,157
+2007,Stroke,Arizona,2207
+2007,Stroke,Arkansas,1873
+2007,Stroke,California,14557
+2007,Stroke,Colorado,1600
+2007,Stroke,Connecticut,1463
+2007,Stroke,Delaware,374
+2007,Stroke,District of Columbia,220
+2007,Stroke,Florida,8781
+2007,Stroke,Georgia,3894
+2007,Stroke,Hawaii,643
+2007,Stroke,Idaho,640
+2007,Stroke,Illinois,5864
+2007,Stroke,Indiana,3083
+2007,Stroke,Iowa,1686
+2007,Stroke,Kansas,1498
+2007,Stroke,Kentucky,2144
+2007,Stroke,Louisiana,2147
+2007,Stroke,Maine,664
+2007,Stroke,Maryland,2364
+2007,Stroke,Massachusetts,2832
+2007,Stroke,Michigan,4798
+2007,Stroke,Minnesota,2193
+2007,Stroke,Mississippi,1589
+2007,Stroke,Missouri,3229
+2007,Stroke,Montana,443
+2007,Stroke,Nebraska,921
+2007,Stroke,Nevada,850
+2007,Stroke,New Hampshire,489
+2007,Stroke,New Jersey,3492
+2007,Stroke,New Mexico,804
+2007,Stroke,New York,6160
+2007,Stroke,North Carolina,4530
+2007,Stroke,North Dakota,330
+2007,Stroke,Ohio,5905
+2007,Stroke,Oklahoma,2126
+2007,Stroke,Oregon,1835
+2007,Stroke,Pennsylvania,7152
+2007,Stroke,Rhode Island,457
+2007,Stroke,South Carolina,2466
+2007,Stroke,South Dakota,410
+2007,Stroke,Tennessee,3450
+2007,Stroke,Texas,9796
+2007,Stroke,Utah,755
+2007,Stroke,Vermont,269
+2007,Stroke,Virginia,3313
+2007,Stroke,Washington,2692
+2007,Stroke,West Virginia,1113
+2007,Stroke,Wisconsin,2738
+2007,Stroke,Wyoming,209
+2007,Diabetes,Alabama,1313
+2007,Diabetes,Alaska,105
+2007,Diabetes,Arizona,1159
+2007,Diabetes,Arkansas,838
+2007,Diabetes,California,7413
+2007,Diabetes,Colorado,710
+2007,Diabetes,Connecticut,646
+2007,Diabetes,Delaware,223
+2007,Diabetes,District of Columbia,152
+2007,Diabetes,Florida,5110
+2007,Diabetes,Georgia,1604
+2007,Diabetes,Hawaii,291
+2007,Diabetes,Idaho,331
+2007,Diabetes,Illinois,2851
+2007,Diabetes,Indiana,1564
+2007,Diabetes,Iowa,767
+2007,Diabetes,Kansas,702
+2007,Diabetes,Kentucky,1091
+2007,Diabetes,Louisiana,1437
+2007,Diabetes,Maine,355
+2007,Diabetes,Maryland,1301
+2007,Diabetes,Massachusetts,1222
+2007,Diabetes,Michigan,2826
+2007,Diabetes,Minnesota,1084
+2007,Diabetes,Mississippi,654
+2007,Diabetes,Missouri,1444
+2007,Diabetes,Montana,258
+2007,Diabetes,Nebraska,472
+2007,Diabetes,Nevada,312
+2007,Diabetes,New Hampshire,280
+2007,Diabetes,New Jersey,2329
+2007,Diabetes,New Mexico,673
+2007,Diabetes,New York,3715
+2007,Diabetes,North Carolina,2156
+2007,Diabetes,North Dakota,226
+2007,Diabetes,Ohio,3722
+2007,Diabetes,Oklahoma,1148
+2007,Diabetes,Oregon,1113
+2007,Diabetes,Pennsylvania,3442
+2007,Diabetes,Rhode Island,248
+2007,Diabetes,South Carolina,1231
+2007,Diabetes,South Dakota,247
+2007,Diabetes,Tennessee,1700
+2007,Diabetes,Texas,5109
+2007,Diabetes,Utah,548
+2007,Diabetes,Vermont,170
+2007,Diabetes,Virginia,1507
+2007,Diabetes,Washington,1508
+2007,Diabetes,West Virginia,800
+2007,Diabetes,Wisconsin,1136
+2007,Diabetes,Wyoming,139
+2007,Heart disease,Alabama,11926
+2007,Heart disease,Alaska,613
+2007,Heart disease,Arizona,10302
+2007,Heart disease,Arkansas,7214
+2007,Heart disease,California,61690
+2007,Heart disease,Colorado,6106
+2007,Heart disease,Connecticut,7289
+2007,Heart disease,Delaware,1914
+2007,Heart disease,District of Columbia,1434
+2007,Heart disease,Florida,42254
+2007,Heart disease,Georgia,16184
+2007,Heart disease,Hawaii,2227
+2007,Heart disease,Idaho,2433
+2007,Heart disease,Illinois,25813
+2007,Heart disease,Indiana,13682
+2007,Heart disease,Iowa,6880
+2007,Heart disease,Kansas,5749
+2007,Heart disease,Kentucky,9916
+2007,Heart disease,Louisiana,9947
+2007,Heart disease,Maine,2852
+2007,Heart disease,Maryland,11314
+2007,Heart disease,Massachusetts,12710
+2007,Heart disease,Michigan,24149
+2007,Heart disease,Minnesota,7477
+2007,Heart disease,Mississippi,8037
+2007,Heart disease,Missouri,14338
+2007,Heart disease,Montana,1870
+2007,Heart disease,Nebraska,3520
+2007,Heart disease,Nevada,4591
+2007,Heart disease,New Hampshire,2511
+2007,Heart disease,New Jersey,18831
+2007,Heart disease,New Mexico,3305
+2007,Heart disease,New York,49528
+2007,Heart disease,North Carolina,17395
+2007,Heart disease,North Dakota,1414
+2007,Heart disease,Ohio,26757
+2007,Heart disease,Oklahoma,9602
+2007,Heart disease,Oregon,6655
+2007,Heart disease,Pennsylvania,32862
+2007,Heart disease,Rhode Island,2751
+2007,Heart disease,South Carolina,8992
+2007,Heart disease,South Dakota,1633
+2007,Heart disease,Tennessee,14280
+2007,Heart disease,Texas,38912
+2007,Heart disease,Utah,2980
+2007,Heart disease,Vermont,1166
+2007,Heart disease,Virginia,13750
+2007,Heart disease,Washington,11037
+2007,Heart disease,West Virginia,5208
+2007,Heart disease,Wisconsin,11110
+2007,Heart disease,Wyoming,957

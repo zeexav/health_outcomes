@@ -1,0 +1,154 @@
+State,Cause_Name,total_09_10,total_15_16,deaths_change
+Alabama,Diabetes,2561,2438,-123
+Alaska,Diabetes,170,266,96
+Arizona,Diabetes,2472,4106,1634
+Arkansas,Diabetes,1740,1806,66
+California,Diabetes,14040,17969,3929
+Colorado,Diabetes,1500,1825,325
+Connecticut,Diabetes,1286,1352,66
+Delaware,Diabetes,402,418,16
+District of Columbia,Diabetes,274,289,15
+Florida,Diabetes,9925,11185,1260
+Georgia,Diabetes,3578,4448,870
+Hawaii,Diabetes,580,548,-32
+Idaho,Diabetes,725,778,53
+Illinois,Diabetes,5248,5598,350
+Indiana,Diabetes,3233,4022,789
+Iowa,Diabetes,1435,1924,489
+Kansas,Diabetes,1290,1411,121
+Kentucky,Diabetes,2560,2937,377
+Louisiana,Diabetes,2454,2523,69
+Maine,Diabetes,726,870,144
+Maryland,Diabetes,2398,2601,203
+Massachusetts,Diabetes,2035,2666,631
+Michigan,Diabetes,5402,5423,21
+Minnesota,Diabetes,2058,2486,428
+Mississippi,Diabetes,1826,2176,350
+Missouri,Diabetes,2760,2976,216
+Montana,Diabetes,455,632,177
+Nebraska,Diabetes,897,1054,157
+Nevada,Diabetes,727,1000,273
+New Hampshire,Diabetes,512,624,112
+New Jersey,Diabetes,4057,3882,-175
+New Mexico,Diabetes,1240,1286,46
+New York,Diabetes,7365,8083,718
+North Carolina,Diabetes,4156,5557,1401
+North Dakota,Diabetes,406,366,-40
+Ohio,Diabetes,6871,7213,342
+Oklahoma,Diabetes,2235,2835,600
+Oregon,Diabetes,2125,2388,263
+Pennsylvania,Diabetes,6496,7337,841
+Rhode Island,Diabetes,424,515,91
+South Carolina,Diabetes,2256,2716,460
+South Dakota,Diabetes,442,535,93
+Tennessee,Diabetes,3446,3681,235
+Texas,Diabetes,9617,10991,1374
+Utah,Diabetes,934,1228,294
+Vermont,Diabetes,294,325,31
+Virginia,Diabetes,3090,4106,1016
+Washington,Diabetes,3053,3484,431
+West Virginia,Diabetes,1522,1644,122
+Wisconsin,Diabetes,2268,2822,554
+Wyoming,Diabetes,210,248,38
+Alabama,Heart disease,24104,25813,1709
+Alaska,Heart disease,1421,1677,256
+Arizona,Heart disease,20227,23415,3188
+Arkansas,Heart disease,14569,16028,1459
+California,Heart disease,117847,122862,5015
+Colorado,Heart disease,12131,14286,2155
+Connecticut,Heart disease,14232,14256,24
+Delaware,Heart disease,3572,3914,342
+District of Columbia,Heart disease,2594,2592,-2
+Florida,Heart disease,83011,91100,8089
+Georgia,Heart disease,32152,35912,3760
+Hawaii,Heart disease,4602,5093,491
+Idaho,Heart disease,4893,5794,901
+Illinois,Heart disease,49890,50665,775
+Indiana,Heart disease,26897,27900,1003
+Iowa,Heart disease,13818,13750,-68
+Kansas,Heart disease,10727,11296,569
+Kentucky,Heart disease,19390,20596,1206
+Louisiana,Heart disease,20451,21608,1157
+Maine,Heart disease,5302,5916,614
+Maryland,Heart disease,22125,22871,746
+Massachusetts,Heart disease,24365,24051,-314
+Michigan,Heart disease,46425,50098,3673
+Minnesota,Heart disease,14423,15669,1246
+Mississippi,Heart disease,15072,15834,762
+Missouri,Heart disease,27756,29387,1631
+Montana,Heart disease,3681,4242,561
+Nebraska,Heart disease,6632,6913,281
+Nevada,Heart disease,9498,12571,3073
+New Hampshire,Heart disease,4558,5202,644
+New Jersey,Heart disease,36816,37244,428
+New Mexico,Heart disease,6438,7308,870
+New York,Heart disease,92264,88526,-3738
+North Carolina,Heart disease,34357,36740,2383
+North Dakota,Heart disease,2826,2661,-165
+Ohio,Heart disease,51617,55479,3862
+Oklahoma,Heart disease,18628,20519,1891
+Oregon,Heart disease,12460,13827,1367
+Pennsylvania,Heart disease,63853,64032,179
+Rhode Island,Heart disease,4733,4627,-106
+South Carolina,Heart disease,18363,20287,1924
+South Dakota,Heart disease,3394,3440,46
+Tennessee,Heart disease,28839,31159,2320
+Texas,Heart disease,76330,87070,10740
+Utah,Heart disease,5702,7234,1532
+Vermont,Heart disease,2343,2677,334
+Virginia,Heart disease,26801,28201,1400
+Washington,Heart disease,21163,22186,1023
+West Virginia,Heart disease,9935,9494,-441
+Wisconsin,Heart disease,21949,22999,1050
+Wyoming,Heart disease,1926,2081,155
+Alabama,Stroke,5294,5904,610
+Alaska,Stroke,329,378,49
+Arizona,Stroke,4210,5078,868
+Arkansas,Stroke,3435,3296,-139
+California,Stroke,27168,30745,3577
+Colorado,Stroke,3139,3783,644
+Connecticut,Stroke,2809,2657,-152
+Delaware,Stroke,822,972,150
+District of Columbia,Stroke,395,494,99
+Florida,Stroke,16827,23287,6460
+Georgia,Stroke,7494,8684,1190
+Hawaii,Stroke,1276,1410,134
+Idaho,Stroke,1269,1323,54
+Illinois,Stroke,10607,11367,760
+Indiana,Stroke,6086,5999,-87
+Iowa,Stroke,3172,2806,-366
+Kansas,Stroke,2786,2727,-59
+Kentucky,Stroke,4056,4107,51
+Louisiana,Stroke,4038,4602,564
+Maine,Stroke,1249,1279,30
+Maryland,Stroke,4567,5249,682
+Massachusetts,Stroke,5095,4943,-152
+Michigan,Stroke,8909,9540,631
+Minnesota,Stroke,4200,4435,235
+Mississippi,Stroke,2956,3439,483
+Missouri,Stroke,6018,6106,88
+Montana,Stroke,956,898,-58
+Nebraska,Stroke,1733,1563,-170
+Nevada,Stroke,1655,2174,519
+New Hampshire,Stroke,999,947,-52
+New Jersey,Stroke,6667,6814,147
+New Mexico,Stroke,1532,1671,139
+New York,Stroke,12163,12550,387
+North Carolina,Stroke,8740,9973,1233
+North Dakota,Stroke,719,619,-100
+Ohio,Stroke,11331,11932,601
+Oklahoma,Stroke,3941,3740,-201
+Oregon,Stroke,3705,3816,111
+Pennsylvania,Stroke,13543,13717,174
+Rhode Island,Stroke,860,793,-67
+South Carolina,Stroke,4693,5227,534
+South Dakota,Stroke,834,803,-31
+Tennessee,Stroke,6361,6955,594
+Texas,Stroke,18317,21158,2841
+Utah,Stroke,1477,1820,343
+Vermont,Stroke,486,554,68
+Virginia,Stroke,6537,6895,358
+Washington,Stroke,5139,5613,474
+West Virginia,Stroke,2177,2118,-59
+Wisconsin,Stroke,5110,5099,-11
+Wyoming,Stroke,437,406,-31
